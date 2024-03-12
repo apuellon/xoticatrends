@@ -1,0 +1,2 @@
+# xoticatrends
+repository xotica trends
